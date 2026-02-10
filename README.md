@@ -1,2 +1,2 @@
-# Meto-semana-15
+# Met-semana-15
 Tarea de  JavaScript semana 15
